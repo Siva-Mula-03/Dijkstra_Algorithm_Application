@@ -1,6 +1,6 @@
 # Dijkstra_Algorithm_Application
 
-Q. For the map given below, find the least compromising route such that its cost saving as well as time saving. Explain your implementation in detail. The price estimation is done using the following metrics: [40 M]
+Q. For the map given below, find the least compromising route such that its cost saving as well as time saving. Explain your implementation in detail. The price estimation is done using the following metrics: 
 (I) For every Km travelled, it costs $0.45 in fuel.
 (II) For every hour spent on the road, it costs $10 for the driver.
 (III) For every hour spent on the pit stops, it costs $25 for expenditures.
